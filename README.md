@@ -141,6 +141,8 @@ Não paramos pra pensar nisso, mas um hospital é um ambiente cheio desses dispo
 
 Para postar esses documentos aqui em um repositório, achei que a melhor forma seria desenvolvendo também um RAG com uma interface simples, pelos motivos já explicados em [Sobre o Projeto](#-sobre-o-projeto). Até em um ambiente corporativo real me parece uma boa solução para facilitar o acesso e a revisão dos documentos pelos colaboradores, sem a necessidade de ter que reler cada um dos vários documentos em busca de sanar uma dúvida específica. A leitura inteira ainda pode ser feita conforme o que foi dito em [Documentação](#-documentação).
 
+Em resumo, aprendi muita coisa sobre práticas de segurança, melhoria contínua, responsabilidades, procedimentos e diversos conceitos. Em geral, muito sobre a vertente de GRC (Governança, Risco e Compliance), importantíssima para toda organização em cada um dos seus 3 pilares. Foi uma ótima experiência!
+
 ---
 
 ## 🤝 Créditos
