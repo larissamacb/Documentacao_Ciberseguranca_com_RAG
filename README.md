@@ -95,7 +95,7 @@ Todos estão reunidos como um dossiê no documento `Dossie_Hospital_LISA`, prese
     cd documentacao_ciberseguranca_com_rag
     ```
 
-2.  **Ambiente Virtual:**
+2.  **Ambiente Virtual (Opcional):**
     ```bash
     python -m venv venv
     .\venv\Scripts\Activate  # Windows
